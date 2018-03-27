@@ -1,2 +1,2 @@
-# MarkDownPictures
-MarkDown笔记的图片存放处
+# MarkdownPictures
+Markdown笔记的图片存放处
